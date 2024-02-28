@@ -6,8 +6,8 @@ An original copy may be located at:
 https://github.com/nmirasol-usbtl/license/
 
 "This Project" refers to any and all copyrightable work licensed under This License.
-Without prior consent, copying, recreation, duplication, amendments or changes, or
-distribution of any portion, in part or full, of This Project via any medium or
+Without prior consent, copying, recreating, duplicating, amending or changing, or
+distributing any portion, in part or in full, of This Project via any medium or
 method is strictly prohibited.
 
 This Project is provided "AS IS", without warranty of any kind, express or implied,
@@ -17,4 +17,5 @@ holders be liable for any claim, damages or other liability, whether in action o
 contract, tort or otherwise, arising from, out of or in connection with This Project
 or the use or other dealings in This Project.
 
-Direct any questions to: mirasol dot nick at gmail dot com
+Please direct any questions to:
+mirasol dot nick at gmail dot com
