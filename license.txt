@@ -1,16 +1,16 @@
 
 Copyright (c) 2024 Nicholas Mirasol - All Rights Reserved
 
+"This License" refers to the contents of this file in its unmodified, original form.
+An original copy may be located at:
+https://github.com/nmirasol-usbtl/license/
+
 "This Project" refers to any and all copyrightable work licensed under This License.
 Without prior consent by The Author, any copying, recreation, duplication, amendments
 or changes, or distribution of any portion in part or full, of This Project via any
 medium or method is strictly prohibited.
 
 "The Author" refers to the sole individual responsible for creating This Project.
-
-"This License" refers to the contents of this file in its unmodified, original form.
-An original copy may be located at:
-https://github.com/nmirasol-usbtl/license/
 
 This Project is provided "AS IS", without warranty of any kind, express or implied,
 including but not limited to the warranties of merchantability, fitness for a
